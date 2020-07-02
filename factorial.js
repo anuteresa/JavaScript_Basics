@@ -5,4 +5,4 @@ function factorialize(num) {
   return product;
 }
 
-factorialize(5);
+factorialize(7);
